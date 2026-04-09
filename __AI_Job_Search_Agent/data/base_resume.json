@@ -1,0 +1,116 @@
+{
+    "name": "Shivam Sharma",
+    "title": "AI Engineer | Agentic AI & LLM Systems | RAG & Multi-Agent Architect",
+    "contact": {
+      "location": "Hapur, Uttar Pradesh, India",
+      "phone": "+91 9627088531",
+      "email": "shivam42025sharma@gmail.com",
+      "linkedin": "linkedin.com/in/shivam-sharma-ai",
+      "github": "github.com/panditjicode2025"
+    },
+    "summary": "2nd-year B.Tech AI & ML student building production-grade AI systems — RAG pipelines, multi-agent workflows, and LLM-powered tools. Hands-on experience with LangGraph, LangChain, FastAPI, and Scikit-learn across 6+ end-to-end projects. Passionate about LLM hallucination mitigation, scalable AI infrastructure, and autonomous AI agents for real-world workflows. Open to AI Engineer, LLM Engineer, and MLOps-focused roles (Remote / Hybrid / On-site).",
+    "skills": {
+      "programming": ["Python", "SQL"],
+      "ml_ai": ["Classification", "Clustering", "Anomaly Detection", "Feature Engineering", "Model Evaluation", "LoRA", "QLoRA", "RLHF"],
+      "llm_systems": ["LangChain", "LangGraph", "MCP", "RAG", "Multi-Agent Systems", "Prompt Engineering", "OpenAI API", "Hugging Face"],
+      "frameworks": ["FastAPI", "Streamlit", "TensorFlow", "PyTorch", "Scikit-learn"],
+      "vector_dbs": ["FAISS", "Pinecone", "ChromaDB"],
+      "data": ["Pandas", "NumPy", "PostgreSQL"],
+      "tools": ["Git", "Docker", "Linux", "Ollama", "Jupyter Notebook"]
+    },
+    "projects": [
+      {
+        "name": "Agentic AI Job Search Tool",
+        "tech": ["Python", "LangChain", "LangGraph", "MCP", "FastAPI"],
+        "bullets": [
+          "Built autonomous AI agent that searches 500+ job listings based on user skills and preferences, reducing manual search time by ~70%.",
+          "Implemented multi-agent workflows using LangGraph with planning, memory, and tool usage to analyze job descriptions and extract required skills.",
+          "Automated resume tailoring and recruiter email generation using LLM prompts, achieving highly personalized outreach.",
+          "Designed notification system to track job applications and status in real-time."
+        ],
+        "highlights": ["LangGraph", "multi-agent", "MCP", "autonomous agent", "resume tailoring"]
+      },
+      {
+        "name": "Enterprise RAG System",
+        "tech": ["Python", "LangChain", "FAISS", "FastAPI"],
+        "bullets": [
+          "Built production-grade RAG pipeline supporting 100K+ document indexing with hybrid retrieval achieving <100ms query latency.",
+          "Implemented semantic chunking and re-ranking to significantly reduce hallucination rates in LLM responses.",
+          "Deployed with FastAPI backend supporting concurrent users with optimized vector search."
+        ],
+        "highlights": ["RAG", "FAISS", "hallucination mitigation", "production-grade", "FastAPI"]
+      },
+      {
+        "name": "Neural Search Engine",
+        "tech": ["Python", "NLP", "Sentence Transformers", "FAISS"],
+        "bullets": [
+          "Built semantic search engine using vector similarity instead of keyword matching, improving search relevance by ~45% over baseline.",
+          "Implemented text preprocessing and embeddings pipeline; designed ranking mechanism using cosine similarity."
+        ],
+        "highlights": ["semantic search", "vector similarity", "embeddings", "NLP"]
+      },
+      {
+        "name": "Neural News Recommendation System",
+        "tech": ["Python", "ML", "Scikit-learn"],
+        "bullets": [
+          "Developed personalized news recommendation model using similarity-based ranking on large-scale user interaction datasets.",
+          "Processed and cleaned 50K+ article records to improve user-specific content relevance and engagement."
+        ],
+        "highlights": ["recommendation system", "collaborative filtering", "large-scale data"]
+      },
+      {
+        "name": "Credit Card Fraud Detection",
+        "tech": ["Python", "Scikit-learn", "XGBoost"],
+        "bullets": [
+          "Built ML model to detect fraudulent transactions achieving 97.3% AUC-ROC on highly imbalanced dataset.",
+          "Applied SMOTE oversampling and ensemble methods to handle class imbalance effectively."
+        ],
+        "highlights": ["XGBoost", "imbalanced data", "SMOTE", "AUC-ROC", "anomaly detection"]
+      },
+      {
+        "name": "Customer Churn Prediction",
+        "tech": ["Python", "ML", "Pandas"],
+        "bullets": [
+          "Developed predictive model to identify at-risk customers with 89% precision, enabling proactive retention strategies.",
+          "Performed feature engineering across 20+ behavioral signals and evaluated multiple classification algorithms."
+        ],
+        "highlights": ["churn prediction", "feature engineering", "classification", "precision"]
+      },
+      {
+        "name": "Samasya-Setu Community Platform",
+        "tech": ["JavaScript", "HTML", "CSS"],
+        "bullets": [
+          "Built community-driven platform allowing users to post and solve local civic issues with responsive UI.",
+          "Implemented problem categorization and upvoting system to prioritize community concerns."
+        ],
+        "highlights": ["full-stack", "JavaScript", "responsive UI", "community platform"]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science (AI & ML)",
+        "institution": "Sanskar College of Engineering and Technology",
+        "location": "Uttar Pradesh",
+        "graduation": "Expected 2027",
+        "coursework": ["Deep Learning", "Natural Language Processing", "Data Structures & Algorithms", "Machine Learning", "Computer Vision"]
+      },
+      {
+        "degree": "Intermediate (PCM)",
+        "institution": "Tagore Inter College",
+        "location": "Hapur, Uttar Pradesh",
+        "graduation": "2024"
+      }
+    ],
+    "strengths": [
+      "Production-mindset: Builds systems optimized for real-world deployment, not just prototypes",
+      "Deep LLM expertise: Fine-tuning (LoRA/QLoRA/RLHF), RAG, multi-agent orchestration, and MCP integration",
+      "Fast learner: Self-driven 2nd-year student with hands-on experience across 6+ end-to-end AI projects",
+      "Open Source contributor: Active GitHub profile with AI/ML projects"
+    ],
+    "target_roles": ["AI Engineer", "LLM Engineer", "MLOps Engineer", "ML Engineer", "Backend Engineer (AI)"],
+    "work_preferences": {
+      "modes": ["Remote", "Hybrid", "On-site"],
+      "open_to_internships": true,
+      "open_to_full_time": true
+    }
+  }
