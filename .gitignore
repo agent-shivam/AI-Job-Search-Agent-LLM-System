@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Sensitive API configurations & secrets
+.env
+.env.*
+
+# Local SQLite databases
+db/*.db
+db/*.db-journal
+
+# Compiled/tailored resumes & states
+data/resumes/*.pdf
+data/resumes/*.json
+data/approval_state.json
+
+# IDE settings
+.vscode/
+.idea/
+.streamlit/config.toml

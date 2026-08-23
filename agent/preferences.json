@@ -1,0 +1,19 @@
+{
+    "target_roles": ["AI Engineer", "LLM Engineer", "Data Science", "ML Engineer", "AI Agents","Multi-agent Orchestration","Agentic Systems"],
+    "locations": ["Delhi", "Uttar Pradesh", "Noida", "Ghaziabad","Gurgaon","Greater Noida"],
+    "industries": ["Technology", "E-commerce", "Healthcare", "Finance", "Education"],
+    "company_sizes": ["Startup", "Mid-size", "Large"],
+    "work_preferences": {
+      "modes": ["Remote", "Hybrid", "On-site"],
+      "open_to_internships": true,
+      "open_to_full_time": true},
+    "min_match_score" : 0.7,
+    "apply_limit_per_day": 15,
+    "email_recruiters": true,
+    "resume_path": "data/base_resume.json",
+    "require_approval": true,
+    "Work_experience": "Focused on AI/ML projects with strong emphasis on LLMs, RAG, and multi-agent systems. Developed end-to-end solutions for recommendation systems, fraud detection, and customer churn prediction. Active open-source contributor with a production mindset and deep expertise in fine-tuning LLMs (LoRA/QLoRA/RLHF) and integrating them into real-world applications.",
+    "Working_Experience": "Fresher with hands-on experience in AI/ML projects, particularly in LLM fine-tuning, RAG, and multi-agent orchestration. Developed end-to-end solutions for recommendation systems, fraud detection, and customer churn prediction. Active open-source contributor with a production mindset and deep expertise in fine-tuning LLMs (LoRA/QLoRA/RLHF) and integrating them into real-world applications."
+}
+
+
