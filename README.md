@@ -153,5 +153,5 @@ MIT License. Feel free to use, modify, and distribute this software.
 
 ## 👨‍💻 Author
 **Shivam Sharma**
-- GitHub: [@panditjicode2025](https://github.com/panditjicode2025)
-- LinkedIn: [Shivam Sharma](https://linkedin.com/in/shivam-sharma-ai)
+- GitHub: [@agent-shivam](https://github.com/agent-shivam)
+- LinkedIn: [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-8467a7358)
